@@ -1,0 +1,18 @@
+==================================================
+       REGISTRATION CONFIRMATION
+==================================================
+
+  Participant ID  : PW-20260525222112
+  Registered On   : 2026-05-25 22:21:12
+
+  Full Name       : Madesh
+  Age             : 19
+  Email Address   : Mades123@gmail.com
+  Phone Number    : 7485961236
+  City            : Mysore
+
+  Event Registered: Python Workshop
+
+==================================================
+  [OK] Registration Successful!
+==================================================

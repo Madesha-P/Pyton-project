@@ -1,0 +1,18 @@
+==================================================
+       REGISTRATION CONFIRMATION
+==================================================
+
+  Participant ID  : A&MB-20260520064804
+  Registered On   : 2026-05-20 06:48:33
+
+  Full Name       : Sneha Patel
+  Age             : 22
+  Email Address   : sneha.patel@email.com
+  Phone Number    : +91-9654321098
+  City            : Ahmedabad
+
+  Event Registered: AI & ML Bootcamp
+
+==================================================
+  Registration Successful!
+==================================================

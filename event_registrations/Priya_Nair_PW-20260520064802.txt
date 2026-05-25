@@ -1,0 +1,18 @@
+==================================================
+       REGISTRATION CONFIRMATION
+==================================================
+
+  Participant ID  : PW-20260520064802
+  Registered On   : 2026-05-20 06:48:33
+
+  Full Name       : Priya Nair
+  Age             : 24
+  Email Address   : priya.nair@email.com
+  Phone Number    : +91-9845012345
+  City            : Bengaluru
+
+  Event Registered: Python Workshop
+
+==================================================
+  Registration Successful!
+==================================================

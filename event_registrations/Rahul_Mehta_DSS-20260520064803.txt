@@ -1,0 +1,18 @@
+==================================================
+       REGISTRATION CONFIRMATION
+==================================================
+
+  Participant ID  : DSS-20260520064803
+  Registered On   : 2026-05-20 06:48:33
+
+  Full Name       : Rahul Mehta
+  Age             : 31
+  Email Address   : rahul.mehta@email.com
+  Phone Number    : +91-9123456789
+  City            : Mumbai
+
+  Event Registered: Data Science Summit
+
+==================================================
+  Registration Successful!
+==================================================

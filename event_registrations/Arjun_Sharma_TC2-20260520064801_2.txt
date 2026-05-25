@@ -1,0 +1,18 @@
+==================================================
+       REGISTRATION CONFIRMATION
+==================================================
+
+  Participant ID  : TC2-20260520064801
+  Registered On   : 2026-05-20 06:48:33
+
+  Full Name       : Arjun Sharma
+  Age             : 28
+  Email Address   : arjun.sharma@email.com
+  Phone Number    : +91-9876543210
+  City            : Mysuru
+
+  Event Registered: Tech Conference 2026
+
+==================================================
+  Registration Successful!
+==================================================
