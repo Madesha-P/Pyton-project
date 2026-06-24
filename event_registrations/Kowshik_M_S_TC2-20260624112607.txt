@@ -2,17 +2,17 @@
        REGISTRATION CONFIRMATION
 ==================================================
 
-  Participant ID  : TC2-20260520064801
-  Registered On   : 2026-05-20 06:48:33
+  Participant ID  : TC2-20260624112607
+  Registered On   : 2026-06-24 11:26:07
 
-  Full Name       : Arjun Sharma
-  Age             : 28
-  Email Address   : arjun.sharma@email.com
-  Phone Number    : +91-9876543210
-  City            : Mysuru
+  Full Name       : Kowshik M S
+  Age             : 19
+  Email Address   : kowshik.m.s@gmail.com
+  Phone Number    : 8745691239
+  City            : Mandya
 
   Event Registered: Tech Conference 2026
 
 ==================================================
-  Registration Successful!
+  [OK] Registration Successful!
 ==================================================

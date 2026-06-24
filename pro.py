@@ -1,5 +1,5 @@
+
 import os
-import json
 from datetime import datetime
 
 # Directory to store output files
@@ -119,11 +119,11 @@ def save_to_all_participants(participant):
 
     with open(ALL_PARTICIPANTS_FILE, "a", encoding="utf-8") as f:
         if write_header:
-            f.write("=" * 80 + "\n")
+            f.write("=" * 100 + "\n")
             f.write("                    ALL REGISTERED PARTICIPANTS\n")
-            f.write("=" * 80 + "\n")
+            f.write("=" * 100 + "\n")
             f.write(f"  {'#':<4} {'Participant ID':<25} {'Name':<22} {'Age':<5} {'Event':<28} {'City'}\n")
-            f.write("-" * 80 + "\n")
+            f.write("-" * 100 + "\n")
 
         # Count existing entries to number this one
         count = count_all_participants()
@@ -132,7 +132,7 @@ def save_to_all_participants(participant):
             f"{participant['age']:<5} {participant['event']:<28} {participant['city']}\n"
         )
         f.write(f"       Email: {participant['email']}  |  Phone: {participant['phone']}  |  Registered: {participant['registered_on']}\n")
-        f.write("-" * 80 + "\n")
+        f.write("-" * 100 + "\n")
 
 
 def count_all_participants():

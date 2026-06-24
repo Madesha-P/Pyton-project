@@ -2,16 +2,16 @@
        REGISTRATION CONFIRMATION
 ==================================================
 
-  Participant ID  : PW-20260525222112
-  Registered On   : 2026-05-25 22:21:12
+  Participant ID  : A&MB-20260624112441
+  Registered On   : 2026-06-24 11:24:41
 
-  Full Name       : Madesh
+  Full Name       : Kishan H S
   Age             : 19
-  Email Address   : Mades123@gmail.com
-  Phone Number    : 7485961236
-  City            : Mysore
+  Email Address   : kishantennis@gmail.com
+  Phone Number    : 9845671235
+  City            : Banglore
 
-  Event Registered: Python Workshop
+  Event Registered: AI & ML Bootcamp
 
 ==================================================
   [OK] Registration Successful!

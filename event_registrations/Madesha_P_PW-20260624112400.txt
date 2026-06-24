@@ -2,17 +2,17 @@
        REGISTRATION CONFIRMATION
 ==================================================
 
-  Participant ID  : PW-20260520064802
-  Registered On   : 2026-05-20 06:48:33
+  Participant ID  : PW-20260624112400
+  Registered On   : 2026-06-24 11:24:00
 
-  Full Name       : Priya Nair
-  Age             : 24
-  Email Address   : priya.nair@email.com
-  Phone Number    : +91-9845012345
-  City            : Bengaluru
+  Full Name       : Madesha P
+  Age             : 19
+  Email Address   : Madesha.P@gmail.com
+  Phone Number    : 7458651225
+  City            : Mysore
 
   Event Registered: Python Workshop
 
 ==================================================
-  Registration Successful!
+  [OK] Registration Successful!
 ==================================================
